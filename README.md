@@ -1,3 +1,5 @@
+# Food recognition system created by ML
+
 ## Download necessary files(too big for github)
 
 ### /raw-data-images
