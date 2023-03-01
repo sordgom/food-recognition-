@@ -1,4 +1,4 @@
-# Food recognition system created by ML
+# Food recognition system created using MachineLearning and streamlit
 
 ## Download necessary files(too big for github)
 
